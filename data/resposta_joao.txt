@@ -1,0 +1,15 @@
+Nome: João Silva  
+Idade: 19  
+Cidade: São Paulo  
+Formação atual: Ensino Médio completo  
+Objetivo profissional: Trabalhar com tecnologia, especialmente com desenvolvimento de software.
+
+Experiência anterior: Nenhuma experiência formal, mas já fiz cursos online de lógica de programação e HTML.
+
+Dificuldades enfrentadas: Não sei por onde começar, sinto que me falta orientação e organização.
+
+Tempo disponível para estudar: 3 horas por dia durante a semana, mais tempo aos finais de semana.
+
+Habilidades que gostaria de desenvolver: Programação em Python, habilidades de comunicação, entender como funcionam as empresas.
+
+Outras observações: Estou motivado, mas ainda inseguro sobre como entrar no mercado de trabalho sem experiência.

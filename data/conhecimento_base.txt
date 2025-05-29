@@ -1,0 +1,22 @@
+Tópico: Introdução ao mercado de trabalho
+- Jovens que estão começando devem focar no autoconhecimento e aprender a criar um currículo simples.
+- Participar de feiras de carreira, eventos online e redes como o LinkedIn pode ajudar a criar networking.
+
+Tópico: Carreira em tecnologia
+- Aprender lógica de programação é essencial para qualquer carreira em desenvolvimento.
+- Linguagens como Python e JavaScript são boas para começar.
+- Pratique com projetos simples como calculadoras, listas de tarefas ou bots.
+
+Tópico: Comunicação e soft skills
+- Saber se comunicar de forma clara é fundamental em qualquer área.
+- Busque fazer apresentações, escrever resumos e participar de discussões online.
+- Fazer parte de comunidades no Discord ou fóruns pode ajudar.
+
+Tópico: Dicas para estudar
+- Crie um cronograma de estudos com metas semanais.
+- Use plataformas como YouTube, Alura, Coursera ou Khan Academy.
+- Mantenha uma rotina com foco, evitando distrações e medindo seu progresso.
+
+Tópico: Primeiro emprego
+- Considere estágios, trabalho voluntário ou projetos pessoais para criar um portfólio.
+- Mesmo sem experiência, a atitude, organização e vontade de aprender contam muito.

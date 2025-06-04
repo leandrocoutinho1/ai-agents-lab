@@ -52,10 +52,11 @@ ai-agents-lab/
    ```
 
 ## Configuração das Credenciais
-Edite o arquivo .env.example, renomeando para .env e preenchendo com sua chave da API da Groq:
+Edite o arquivo .env.example, renomeando para .env e preenchendo com sua chave da API da Groq e o modelo LLM a ser usado:
 
    ```bash
    GROQ_API_KEY=sua-chave-aqui
+   MODEL=model-aqui
    ```
 
 ## Como Usar

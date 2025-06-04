@@ -1,27 +1,23 @@
 from crewai import Task
 
-
 class CareerDevelopmentTask:
     def generate_study_plan(self, agent, resposta_jovem, conhecimento_base):
         return Task(
             description=f"""
-                Com base nas respostas do jovem e no conteúdo de referência, gere um plano de desenvolvimento profissional personalizado.
+Crie um plano de desenvolvimento profissional para o jovem baseado nas informações:
 
-                Resposta do jovem:
-                ------------------
-                {resposta_jovem}
+PERFIL: {resposta_jovem[:500]}...
 
-                Base de conhecimento:
-                ---------------------
-                {conhecimento_base}
+BASE DE CONHECIMENTO: {conhecimento_base[:500]}...
 
-                Instruções:
-                - Analise as dificuldades, interesses e metas do jovem.
-                - A partir da base de conhecimento, sugira uma rota de estudo personalizada.
-                - Destaque as principais soft e hard skills a desenvolver.
-                - Seja claro, objetivo e encorajador na resposta.
+Crie um plano estruturado em português com:
+- Análise do perfil
+- 3 etapas de desenvolvimento
+- Recursos recomendados
+- Cronograma
+
+Responda diretamente com o plano, sem incluir pensamentos ou processos.
             """,
             agent=agent,
-            expected_output="Plano de desenvolvimento profissional personalizado.",
-            output_file="output/plano_desenvolvimento.txt",
+            expected_output="Plano de desenvolvimento profissional estruturado em português"
         )

@@ -1,21 +1,20 @@
 import os
-from crewai import Agent
-from langchain_groq import ChatGroq
+from crewai import Agent, LLM
 
 
 class CareerMentorAgents:
     def __init__(self):
-        self.llm = ChatGroq(
-            api_key=os.getenv("GROQ_API_KEY"),
-            model="meta-llama/llama-4-scout-17b-16e-instruct"
+        self.llm = LLM(
+            model="compound-beta-mini",
+            api_key=os.getenv("GROQ_API_KEY")
         )
 
     def career_mentor_agent(self):
         return Agent(
             role="Mentor de Carreira",
-            goal="Auxiliar o jovem a se desenvolver profissionalmente com base em suas respostas.",
-            backstory="Você é um mentor de carreira que ajuda os usuários a alcançarem seus objetivos profissionais.",
-            verbose=True,
+            goal="Criar planos de desenvolvimento profissional para jovens",
+            backstory="Você é um mentor experiente que cria planos práticos de carreira em tecnologia.",
             llm=self.llm,
-            max_iter=2,
+            verbose=True,
+            allow_delegation=False
         )

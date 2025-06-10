@@ -1,0 +1,85 @@
+## Plano de Desenvolvimento Profissional Personalizado para João Silva
+
+### Objetivo: 
+Desenvolver habilidades técnicas e soft skills necessárias para ingressar no mercado de trabalho em tecnologia, com foco em desenvolvimento de software.
+
+### Análise do Perfil:
+
+- **Nome:** João Silva
+- **Idade:** 19 anos
+- **Cidade:** São Paulo
+- **Formação atual:** Ensino Médio completo
+- **Objetivo profissional:** Trabalhar com tecnologia, especialmente com desenvolvimento de software.
+- **Experiência anterior:** Nenhuma experiência formal, mas já fez cursos online de lógica de programação e HTML.
+- **Dificuldades:** Falta de orientação e organização, inseguro sobre como entrar no mercado de trabalho sem experiência.
+- **Tempo disponível:** 3 horas por dia durante a semana, mais tempo aos finais de semana.
+- **Habilidades a desenvolver:** Programação em Python, habilidades de comunicação, entender como funcionam as empresas.
+
+### Rota de Estudo Personalizada:
+
+#### 1. **Desenvolvimento de Hard Skills:**
+   - **Programação em Python:** 
+     - **Meta:** Aprender Python em 3 meses.
+     - **Ações:**
+       - Estudar 1 hora por dia, 3 vezes por semana, utilizando recursos como Khan Academy, Coursera ou YouTube.
+       - Praticar com projetos simples como calculadora, lista de tarefas ou chatbot.
+   - **Lógica de Programação e HTML:**
+     - **Meta:** Aprofundar conhecimentos em lógica e HTML.
+     - **Ações:**
+       - Revisar conceitos básicos e avançados de lógica de programação.
+       - Criar pequenos projetos web utilizando HTML e CSS.
+
+#### 2. **Desenvolvimento de Soft Skills:**
+   - **Habilidades de Comunicação:**
+     - **Meta:** Melhorar a comunicação escrita e verbal em 2 meses.
+     - **Ações:**
+       - Participar de discussões online em fóruns e comunidades no Discord.
+       - Escrever resumos semanais sobre o que está estudando.
+       - Fazer apresentações simples para amigos ou familiares.
+
+#### 3. **Conhecimento sobre Empresas:**
+   - **Meta:** Entender como funcionam as empresas em 1 mês.
+   - **Ações:**
+     - Ler artigos e assistir a vídeos sobre funcionamento de empresas de tecnologia.
+     - Participar de feiras de carreira e eventos online.
+
+#### 4. **Organização e Orientação:**
+   - **Meta:** Criar um cronograma de estudos e manter uma rotina.
+   - **Ações:**
+     - Utilizar ferramentas como Trello ou Google Calendar para organizar o tempo.
+     - Revisar semanalmente o progresso e ajustar o cronograma conforme necessário.
+
+#### 5. **Criação de um Portfólio:**
+   - **Meta:** Desenvolver um portfólio em 4 meses.
+   - **Ações:**
+     - Criar projetos pessoais de desenvolvimento de software.
+     - Documentar o processo de desenvolvimento e resultados.
+
+### Plano de Ação:
+
+1. **Mês 1-3:** Focar em Python, lógica de programação e HTML.
+2. **Mês 4-6:** Aprofundar Python, iniciar projetos pessoais e melhorar habilidades de comunicação.
+3. **Mês 7-12:** Continuar a aprender, participar de eventos, melhorar o portfólio e se preparar para estágios ou primeiros empregos.
+
+### Ferramentas e Recursos:
+- **Plataformas de Estudo:** Coursera, Khan Academy, YouTube.
+- **Comunidades:** Discord, LinkedIn, fóruns de programação.
+- **Ferramentas de Organização:** Trello, Google Calendar.
+
+### Ações Imediatas:
+
+- Criar um perfil no LinkedIn.
+- Inscrever-se em cursos online de Python.
+- Definir um cronograma de estudos.
+
+### Mensagem de Encorajamento:
+
+João, você está no caminho certo! Com dedicação e foco, você alcançará seus objetivos. Lembre-se de que a prática constante e a busca por conhecimento são chaves para o sucesso. Não hesite em buscar orientação e apoio quando necessário. Você é capaz de conquistar seu lugar no mercado de trabalho em tecnologia.
+
+### Próximos Passos:
+
+- Revisar e ajustar o plano mensalmente.
+- Buscar feedback de profissionais da área.
+- Manter-se motivado e resiliente.
+
+Você é capaz de alcançar grandes coisas, João! Continue focado e determinado.
